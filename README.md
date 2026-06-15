@@ -1,4 +1,4 @@
-ControlQuepass
+## ControlQuepass
 
 ## Descrição
 O Sistema de Filas e Senhas foi desenvolvido para organizar e controlar o atendimento de clientes em estabelecimentos que utilizam senhas. O objetivo é reduzir o tempo de espera, melhorar a organização do atendimento e facilitar o gerenciamento das filas.
