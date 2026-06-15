@@ -27,8 +27,8 @@ O Sistema de Filas e Senhas foi desenvolvido para organizar e controlar o atendi
 Proporcionar um atendimento mais organizado e eficiente, reduzindo filas e melhorando a experiência dos usuários.
 
 ## Equipe
-- Integrante 1: ____________________
-- Integrante 2: ____________________
+- Integrante 1: Pedro Tiso
+- Integrante 2: Gabriel Rodrigues
 
 ## Status do Projeto
 🚧 Em desenvolvimento.
